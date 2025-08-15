@@ -58,8 +58,9 @@ It receives a stream (or video) from a source, processes the **audio** and **vid
 
 | Before Denoising (Noisy Audio) | After Denoising (Clean Audio) |
 | ------------------------------ | ----------------------------- |
-|[noisy_French_knocking.wav](https://github.com/user-attachments/files/21797635/noisy_French_knocking.wav)
-                  |                               |[method(1)_denoise_French_knocking.wav](https://github.com/user-attachments/files/21797637/method.1._denoise_French_knocking.wav)
+[noisy_French_knocking.wav](https://github.com/user-attachments/files/21797635/noisy_French_knocking.wav)
+
+[method(1)_denoise_French_knocking.wav](https://github.com/user-attachments/files/21797637/method.1._denoise_French_knocking.wav)
 
 
 ---

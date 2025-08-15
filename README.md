@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Real-Time Stream Enhancement
 
 **Real-Time-Stream-Enhancement** is a Python-based system designed to process live audio-video streams for improved quality and efficiency.  
@@ -64,10 +63,3 @@ It receives a stream (or video) from a source, processes the **audio** and **vid
 ---
 
 ### 2️⃣ Motion Estimation & Foreground Detection
-
-🎬 [Watch Motion Estimation Demo](link_to_motion_estimation_video)  
-**Shows detected moving objects (foreground) with background suppressed for efficient compression.**
-=======
-# streamy
-My Graduation Project ;AI Powered Proxy Streaming Server.
->>>>>>> 84d39598de3a106e07aadb0bab817697ad0d287d

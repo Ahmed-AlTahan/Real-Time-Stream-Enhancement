@@ -52,3 +52,6 @@ It receives a stream (or video) from a source, processes the **audio** and **vid
 
 ---
 
+## 🖥️ Demo and Results
+
+The demo files and result outputs are available in the [`Demo`](./Demo) folder.

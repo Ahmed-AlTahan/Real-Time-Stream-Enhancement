@@ -56,9 +56,9 @@ It receives a stream (or video) from a source, processes the **audio** and **vid
 
 ### 1️⃣ Audio Denoising
 
-| Before Denoising (Noisy Audio)   | After Denoising (Clean Audio)    |
-| -------------------------------- | -------------------------------- |
-| 🎧 [Listen](link_to_noisy_audio) | 🎧 [Listen](link_to_clean_audio) |
+| Before Denoising (Noisy Audio) | After Denoising (Clean Audio) |
+| ------------------------------ | ----------------------------- |
+|                                |                               |
 
 ---
 

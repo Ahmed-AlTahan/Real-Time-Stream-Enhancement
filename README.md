@@ -52,17 +52,3 @@ It receives a stream (or video) from a source, processes the **audio** and **vid
 
 ---
 
-## 🖥️ Demo
-
-### 1️⃣ Audio Denoising
-
-| Before Denoising (Noisy Audio) | After Denoising (Clean Audio) |
-| ------------------------------ | ----------------------------- |
-[noisy_French_knocking.wav](https://github.com/user-attachments/files/21797635/noisy_French_knocking.wav)
-
-[method(1)_denoise_French_knocking.wav](https://github.com/user-attachments/files/21797637/method.1._denoise_French_knocking.wav)
-
-
----
-
-### 2️⃣ Motion Estimation & Foreground Detection
